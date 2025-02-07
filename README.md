@@ -1,6 +1,7 @@
 # ATM_Analysis_PowerBI
 Dashboard Overview
-DashBoard Image ["C:\Users\KRUTIK\Desktop\Project\ATM powerBI Dashboard\Dashboard 1 Overview.jpg"]
+DashBoard Image 
+![](https://github.com/KrutikKhasare/ATM_Analysis_PowerBI/blob/main/Dashboard%201%20Overview.jpg)
 
 Cost Analysis (ATM Cost and Maintenance)
 This section provides a breakdown of ATM maintenance costs. The costs are categorized and visualized using pie charts for the selected month (August). The categories include:
